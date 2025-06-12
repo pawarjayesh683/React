@@ -7,7 +7,7 @@ function App() {
 
   let [counter, setCounter] = useState(0)
 
-  // let counter = 15;
+
 
   const addValue = () => {
     if(counter < 20 ){
